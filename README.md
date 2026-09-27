@@ -3,7 +3,7 @@
 - 1: EXCELENTE 🤌
 - 2: BOM 👍
 - 3: RUIM 👎
-- Qualquer outra resposta, o programa retona como resposta "Opção Inválida" 🤷‍♀️
+- Qualquer outra resposta, o programa retorna como resposta "Opção Inválida" 🤷‍♀️
 ## Ao final, o programa faz a contagem da quantidade de respostas "Excelente" e "Ruim", exibindo o resultado no terminal.
 
 # Como executar: 💡💡
