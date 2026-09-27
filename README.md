@@ -8,7 +8,7 @@
 
 # Como executar: 💡💡
 
-- Abra o CMD dentro da pasta do programa e execute o CMD
+- Abra o CMD dentro da pasta do programa e execute-o
 - Insira o dado solicitado e tecle enter
   
 ## Prints de teste do programa com 10 entrevistados:
