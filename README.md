@@ -1,5 +1,5 @@
 ## Programa em Python utilizando a estrutura de repetição para coletar e exibir o retorno de uma pesquisa de atendimento ao cliente com 50 entrevistados.✍
-# O programa deve solicitar a digitação do nome, idade e opinião do entrevistado sobre o atendimento prestado, sendo:
+## O programa deve solicitar a digitação do nome, idade e opinião do entrevistado sobre o atendimento prestado, sendo:
 - 1: EXCELENTE 🤌
 - 2: BOM 👍
 - 3: RUIM 👎
